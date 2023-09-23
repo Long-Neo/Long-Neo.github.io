@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Long Ma / Mr."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Long Ma"
 description              : &description "personal description"
