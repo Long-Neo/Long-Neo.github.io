@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "ECO4020"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Chinese University of Hong Kong (Shenzhen), School of Management and Economics"
+date: 2022-2023 Term 2
+location: "Shenzhen, China"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
