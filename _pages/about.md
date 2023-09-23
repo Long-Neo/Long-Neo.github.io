@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year ECON PhD student from [School of Management and Economics](https://sme.cuhk.edu.cn/), [Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/zh-hans). My research interest includes macroeconomics and international economics. You can find my CV here: [Long Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am a third-year PhD student in Economics from [School of Management and Economics](https://sme.cuhk.edu.cn/), [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). Here is my brief education background:
 
-[Email](longma@link.cuhk.edu.cn) / [Github](https://github.com/Long-Neo)
+2021.9 ~ Now: PhD student in Economics, Chinese University of Hong Kong, Shenzhen
+2020.9 ~ 2021.7: Msc in Economics, London School of Economics and Political Science
+2016.9 ~ 2020.7: Bsc in Economics (FinTech), Central University of Finance and Economics
+
+My research interest includes:
+(1) Macroeconomics: Innovation, International Trade, Monetary Economics
+(2) Finance: Banking, FinTech
+
+For more details, please refer to my [CV](../assets/Curriculum_Vitae.pdf).
