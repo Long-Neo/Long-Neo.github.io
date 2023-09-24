@@ -16,6 +16,5 @@ I am a third-year PhD student in Economics from [School of Management and Econom
 
 My research interest includes:
 * **Macroeconomics**: Innovation, International Economics, Monetary Economics
-* **Finance**: Banking, FinTech
 
 For more details, please refer to my [CV](../assets/Curriculum_Vitae.pdf).
