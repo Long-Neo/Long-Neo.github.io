@@ -10,7 +10,6 @@ redirect_from:
 
 I am a third-year PhD student in Economics from [School of Management and Economics](https://sme.cuhk.edu.cn/), [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans). Here is my brief education background:
 
-| 1  | 2 | 3 |
 | :---- | :---- | :---- |
 | PhD Candidate in Economics | Chinese University of Hong Kong, Shenzhen | 2021.9 ~ Now |
 | MSc in Economics | London School of Economics and Political Science | 2020.9 ~ 2021.7 |
