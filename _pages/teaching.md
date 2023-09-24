@@ -7,13 +7,13 @@ author_profile: true
 
 As Teaching Assistant
 ------
-* ECO3080 Machine Learning for Business, Undergraduate Level.
-  - 2022~2023 Fall, 2023~2024 Fall
+* **ECO3080 Machine Learning for Business**, Undergraduate Level.
+  - 2022-2023 Fall / 2023-2024 Fall
   - Chinese University of Hong Kong, Shenzhen
   - Course Instructor: Prof. Qihui Chen
   - Materials for tutorial session can be found [here](https://github.com/Long-Neo/ECO3080-Machine-Learning-for-Business).
   
-* ECO4020 Advanced Macroeconomics, Undergraduate Level.
+* **ECO4020 Advanced Macroeconomics**, Undergraduate Level.
   - 2022-2023 Spring
   - Chinese University of Hong Kong, Shenzhen
   - Course Instructor: Prof. Sichuang Xu
