@@ -17,3 +17,6 @@ As Teaching Assistant
   - Time: 2022-2023 Spring
   - Location: Chinese University of Hong Kong, Shenzhen
   - Course Instructor: Prof. Sichuang Xu
+
+As Instructor
+------
