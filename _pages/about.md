@@ -18,4 +18,4 @@ My research interest includes:
 * **Macroeconomics**: Innovation, International Economics, Monetary Economics
 * **Finance**: Banking, FinTech
 
-For more details, please refer to my [CV](../assets/Curriculum_Vitae.pdf).
+For more details, please refer to my [CV](../assets/CV（2023V1）.pdf).
