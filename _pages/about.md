@@ -15,7 +15,7 @@ I am a third-year PhD student in Economics from School of Management and Economi
 * **BSc in Economics**, Central University of Finance and Economics, 2016.9 ~ 2020.7 
 
 My research interest includes:
-* **Macroeconomics**: Innovation, International Economics, Monetary Economics
-* **Finance**: Banking, FinTech
+* **Macroeconomics**: Innovation/International/Monetary
+* **Finance**: Banking/FinTech
 
 For more details, please refer to my [CV](../assets/CV（2023V1）.pdf).
