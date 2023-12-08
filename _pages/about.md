@@ -18,3 +18,5 @@ My recent research interest includes:
 * **Macroeconomics**: Innovation, Monetary Economics
 
 For more details, please refer to my [CV](../assets/CV（2023V1）.pdf).
+
+My Chinese name is 马龙.
