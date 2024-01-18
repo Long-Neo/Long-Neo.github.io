@@ -15,6 +15,7 @@ As Teaching Assistant
   - Location: Chinese University of Hong Kong, Shenzhen
   - Course Instructor: [Prof. Qihui Chen](https://sites.google.com/view/chenqihui)
   - Materials for tutorial session can be found [here](https://github.com/Long-Neo/ECO3080-Machine-Learning-for-Business).
+  - Teaching Evaluation: [2023-2024 Fall]()
   
 * **ECO4020 Advanced Macroeconomics**, Undergraduate Level.
   - Time: 2022-2023 Spring / 2023-2024 Spring
