@@ -13,7 +13,7 @@ Working Paper
 ----------
 * To be updated.
 
-Working in Progress
+Work in Progress
 ----------
 * **Macroprudential Policy with a Long-term Debt**, 2024 <br>
 with Sichuang Xu.
