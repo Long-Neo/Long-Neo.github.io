@@ -12,9 +12,8 @@ Publication
 Working Paper
 ----------
 * **Does Numerical Information Matter for Predicting Default Rates? Evidence from a P2P Lending Platform**, 2021 <br>
-with Yuchao Peng and Xu Wei. 
+with Yuchao Peng and Xu Wei. [[Paper]](../assets/Numerical2021.pdf)
   - *2020 Excellent Undergraduate Thesis of CUFE*
-  - [[Paper]](../assets/Numerical2021.pdf)
 
 Work in Progress
 ----------
