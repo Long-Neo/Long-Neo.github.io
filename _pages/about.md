@@ -15,8 +15,6 @@ I am a third-year PhD student in Economics from School of Management and Economi
 * **BSc in Economics**, Central University of Finance and Economics, 2016.9 ~ 2020.7 
 
 My recent research interest includes:
-* **Macroeconomics**: Innovation, Monetary Economics
-
-For more details, please refer to my [CV](../assets/CV（2023V1）.pdf).
+* **Macroeconomics**: Innovation, Monetary Economics.
 
 My Chinese name is 马龙.
