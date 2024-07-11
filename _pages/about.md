@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Economics at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). 
+I am a PhD student in Economics at The Chinese University of Hong Kong, Shenzhen. 
 
 My Chinese name is 马龙.
