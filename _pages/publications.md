@@ -11,7 +11,7 @@ To be updated.
 
 Working Paper
 ----------
-**[1] Macroprudential Policy with Long-term Debts**, 2024 <br>
+**[1] Macroprudential Policy with Long-Term Debts**, 2024 <br>
 (previously entitled "Credit Boom, Debt Overhang and Aggregate Productivity Trap") <br>
 with Sichuang Xu. [[Paper]](../assets/Prudential2024.pdf)
 
